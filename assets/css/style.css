@@ -109,6 +109,7 @@ body {
     display: flex;
     min-width: 600px;
     flex-wrap: wrap-reverse;
+    justify-content: center;
     align-items: center;
     
 }
@@ -117,6 +118,7 @@ body {
 }
 
 .text {
-    width: 400px;
+    width: 350px;
     margin: 0 15px;
+    min-width: 300px;
 }
